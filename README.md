@@ -13,7 +13,7 @@ Nucleus target: ``O16``: Oxygen 16, ``H1`` Hydrogen 1, (adding O16 and two H1's 
 ``W``: W boson  
 ``X``: the final-state of the nucleus part  
 Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e  O16 -> e^-  W^+  X``.  
-Neutrino- and antineutrino-induced channels have the same total and differential cross sections. See https://arxiv.org/abs/1910.08090 for details.  
+Neutrino- and antineutrino-induced channels have the same cross sections. See https://arxiv.org/abs/1910.08090 for details.  
 
 ## Units
 First column: neutrino energy  [ GeV ]  
