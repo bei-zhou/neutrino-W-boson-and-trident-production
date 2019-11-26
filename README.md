@@ -2,7 +2,7 @@
 Here we provide the data files of the cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later.   
 If you need any more data files not shown here yet, or if you have any other questions, please feel free to contact me:  
     (**Bei Zhou**, beizhousuper@gmail.com).  
-Relevant papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 .
+Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 .
 
 
 ## Conventions for the file names
@@ -12,8 +12,9 @@ Charged lepton: ``e``: e^-,  ``E``: e^+,  ``m``: \mu^-,  ``M``: \mu^+,  ``l``: \
 Nucleus target: ``O16``: Oxygen 16, ``H1`` Hydrogen 1, (adding O16 and two H1's gives the cross section for water/ice target), ``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58) 
 ``W``: W boson  
 ``X``: the final-state of the nucleus part  
+``tot``: means total cross section, which sums up all the three scattering regimes (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
 Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e  O16 -> e^-  W^+  X``.  
-Neutrino- and antineutrino-induced channels have the same cross sections. See https://arxiv.org/abs/1910.08090 for details.  
+Neutrino- and antineutrino-induced channels have the same cross sections. See the references papers above for details.  
 
 ## Units
 First column: neutrino energy  [ GeV ]  
