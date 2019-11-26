@@ -6,11 +6,16 @@ Relevant papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1
 
 ## Conventions for the files
 
-Neutrino flavors: ``ve``: \nu_e,  ``vm``: \nu_\mu,   ``vl``: \nu_\tau   
+Neutrino flavors: ``ve``: \nu_e,  ``vm``: \nu_\mu,   ``vl``: \nu_\tau
+
 Charged lepton: ``e``: electron,  ``m``: muon,  ``l``: tau
+
 Nucleus target: ``O16``: Oxygen 16
+
 ``W``: W boson
+
 ``X``: the final-state of the nucleus part
+
 Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e + O16 -> electron + W + X``
 
 The charge signs are suppred because neutrino- and antineutrino-induced channels have the same total and differential cross sections. See https://arxiv.org/abs/1910.08090 for details.
