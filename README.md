@@ -10,9 +10,9 @@ Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/
 **Neutrino flavors**: ``ve``: \nu_e,  ``vm``: \nu_\mu,   ``vl``: \nu_\tau   
 **Charged lepton**: ``e``: e^-,  ``E``: e^+,  ``m``: \mu^-,  ``M``: \mu^+,  ``l``: \tau^- ,  ``L``: \tau^+ ,  
 **Nucleus target**: ``O16``: Oxygen 16, ``H1`` Hydrogen 1, (adding O16 and two H1's gives the cross section for water/ice target), ``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58) 
-**``W``**: W boson  
-**``X``**: the final-state of the nucleus part  
-**``tot``**: means total cross section, which sums up all the three scattering regimes (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
+``W``: W boson  
+``X``: the final-state of the nucleus part  
+``tot``: means total cross section, which sums up all the three scattering regimes (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
 
 Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e  O16 -> e^-  W^+  X``.  
 
