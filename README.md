@@ -7,7 +7,7 @@ Relevant papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1
 ## Conventions for the file names
 
 Neutrino flavors: ``ve``: \nu_e,  ``vm``: \nu_\mu,   ``vl``: \nu_\tau   
-Charged lepton: ``e``: electron,  ``m``: muon,  ``l``: tau  
+Charged lepton: ``e``: e^-,  ``E``: e^+,  ``m``: \mu^-,  ``M``: \mu^+,  ``l``: \tau^- ,  ``L``: \tau^+ ,  
 Nucleus target: ``O16``: Oxygen 16  
 ``W``: W boson  
 ``X``: the final-state of the nucleus part  
