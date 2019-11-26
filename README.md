@@ -11,7 +11,7 @@ Charged lepton: ``e``: e^-,  ``E``: e^+,  ``m``: \mu^-,  ``M``: \mu^+,  ``l``: \
 Nucleus target: ``O16``: Oxygen 16  
 ``W``: W boson  
 ``X``: the final-state of the nucleus part  
-Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e + O16 -> electron + W + X``.  
+Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e  O16 -> e^-  W^+  X``.  
 Neutrino- and antineutrino-induced channels have the same total and differential cross sections. See https://arxiv.org/abs/1910.08090 for details.  
 
 ## Units
