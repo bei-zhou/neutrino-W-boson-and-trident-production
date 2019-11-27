@@ -5,7 +5,7 @@ If you need any more data files not shown here yet, or if you have any other que
 Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 .
 
 
-## Conventions for the file names
+## Conventions of the file names
 
 **Neutrino flavors**: ``ve``: \nu_e,  ``vm``: \nu_\mu,   ``vl``: \nu_\tau   
 **Charged lepton**: ``e``: e^-,  ``E``: e^+,  ``m``: \mu^-,  ``M``: \mu^+,  ``l``: \tau^- ,  ``L``: \tau^+ ,  
