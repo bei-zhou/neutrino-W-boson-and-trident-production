@@ -19,7 +19,7 @@ Therefore, for example, ``veO16TOeWX_tot.dat`` is for the channel ``\nu_e  O16 -
 Neutrino- and antineutrino-induced channels have the same cross sections. See the references papers above for details.  
 
 
-## Units
+## Units of the data
 First column: neutrino energy  [ GeV ]  
 Second column: cross section  [ cm^2 ]
 
