@@ -3,7 +3,7 @@ Here we provide the data files of the cross sections for different neutrino flav
 If you need any more data files not shown here yet, or if you have any other questions, please feel free to contact me:  
     (**Bei Zhou**, beizhousuper@gmail.com).  
 
-Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 . The first paper developpd the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences including neutrino absorptions in the Earth and detections in the TeV-PeV observatories including IceCube.
+Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and Prof. John F. Beacom. The first paper developpd the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences including neutrino absorptions in the Earth and detections in the TeV-PeV observatories including IceCube.
 
 
 ## Conventions of the file names
