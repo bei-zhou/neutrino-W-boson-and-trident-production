@@ -7,8 +7,9 @@ Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/
 
 The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences including neutrino absorptions in the Earth and detections in the TeV-PeV observatories including IceCube.
 
-**Updates on July 13, 2023**:
-The calculation of the inelastic
+**Updates on July 13, 2023, WBP cross sections**:
+The calculation of the inelastic component of the WBP cross section now uses the latest (second-generation) photon PDFs of proton and neutron from CT18qed (https://cteq-tea.gitlab.io/project/00pdfs/). 
+Also, WBP
 
 
 ## Conventions of the file names
@@ -38,7 +39,7 @@ In the ``trident_production`` folder:
 
 ``X``: the final-state of the nucleus part  
 
-``tot``: means total cross section, which sums up all the three scattering regimes (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
+``tot``: means total cross section, which sums up all the three scattering regimes/components (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
 
 Therefore, for example, ``nue_H2O_TO_e_W_X_tot.txt`` is for the channel ``\nu_e  H_2O -> e^-  W^+  X`` or ``\bar{\nu}_e  H_2O -> e^+  W^-  X``.  
 
