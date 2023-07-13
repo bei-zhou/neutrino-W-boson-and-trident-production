@@ -8,9 +8,9 @@ Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/
 The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences including neutrino absorptions in the Earth and detections in the TeV-PeV observatories including IceCube.
 
 ## Updates on July 13, 2023, WBP cross sections:
-The calculation of the inelastic component of the WBP cross section now uses the latest (second-generation) photon PDFs of proton and neutron from CT18qed (https://cteq-tea.gitlab.io/project/00pdfs/).  In the previous work (https://arxiv.org/abs/1910.08090), we used the (first-generation) CT14qed photon PDFs. The WBP inelastic cross section from CT18qed is 10--20% higher than that from CT14qed.
+The calculation of the inelastic component of the WBP cross section now uses the latest (second-generation) photon PDFs of proton and neutron from CT18qed (https://cteq-tea.gitlab.io/project/00pdfs/).  In the previous work (https://arxiv.org/abs/1910.08090), we used the (first-generation) CT14qed photon PDFs. The WBP inelastic cross section from CT18qed is **10--30% higher** than that from CT14qed.
 
-Also, in the WBP cross section files, we added a third c
+Also, in the WBP cross section files, we added a third columbus which is the 
 
 More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, T.J. Hobbs.
 
