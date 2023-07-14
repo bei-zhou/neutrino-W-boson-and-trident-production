@@ -66,8 +66,9 @@ fig = plt.figure(figsize=(7, 7), facecolor='w')
 ax = fig.add_axes([0.145, 0.12, 0.82, 0.82 ])
 ax.set_xscale('log'); ax.set_yscale('log')
 
-xsec = loadtxt('veO16TOeWX_tot.dat').T
-ax.plot(xsec[0], xsec[1],'k-',lw=1.5)
+xsec = loadtxt('W_boson_production/nue_H2O_TO_e_W_X_tot.txt').T
+ax.plot(xsec[0], xsec[1],'r-',lw=1.5)
+ax.fill_between(xsec[0], xsec[1]*(1-xsec[2]), xsec[1]*(1+xsec[2]), facecolor='r', alpha=0.3)
 
 plt.show()
 ```
