@@ -13,7 +13,7 @@ The calculation of the inelastic component of the WBP cross section now uses the
 
 Also, in the WBP cross section files, we added a third column which has the cross section uncertainty, including the uncertainties of the 1) coherent component, 2) diffractive component, 3) inelastic component, PDF uncertainty, and 4) inelastic component, scale uncertainty.
 
-More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, T.J. Hobbs.
+More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, and T.J. Hobbs.
 
 
 ## Conventions of the file names
