@@ -20,7 +20,8 @@ More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/
 
 **Neutrino flavors**: ``nue`` or ``ve``: \nu_e; ``numu`` or ``vm``: \nu_\mu; ``nutau`` or ``vl``: \nu_\tau  
 
-**Nucleus target**: 
+**Nucleus targets**: 
+
 ``H2O``: water/ice. 
 
 ``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58), which matters for neutrino in-earth absorption.
@@ -31,9 +32,11 @@ More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/
 
 ``H1`` Hydrogen 1 (adding O16 and two H1's gives the cross section for water/ice target).
 
-**Charged lepton**: 
+**Charged leptons**: 
+
 In the ``W_boson_production`` folder:
 ``e``: e^- or e^+; ``mu``: \mu^- or \mu^-; ``tau``: \tau^- or \tau^+;   
+
 In the ``trident_production`` folder:
 ``e``: e^-; ``E``: e^+; ``m``: \mu^-; ``M``: \mu^+; ``l``: \tau^- ; ``L``: \tau^+   
 
