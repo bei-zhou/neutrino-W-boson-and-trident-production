@@ -56,6 +56,7 @@ Neutrino- and antineutrino-induced channels have the same cross sections. See th
 ## Units of the data
 First column: neutrino energy  [ GeV ]  
 Second column: cross section  [ cm^2 ]
+Third column (for WBP only): relative uncertainty of the cross section (the thrid column times the second column gives the absolute cross section uncertainty).
 
 
 ## Basic usage
