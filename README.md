@@ -23,36 +23,32 @@ More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/
 ``numu`` or ``vm``: \nu_\mu  
 ``nutau`` or ``vl``: \nu_\tau  
 
-**Nucleus targets**: 
+**Nucleus targets**:  
+``H2O``: water/ice.  
+``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58), which matters for neutrino in-earth absorption.  
+``EarthAvg``: Earth's averaged (by number density) chemical composition, which matters for neutrino in-earth absorption.  
+``O16``: Oxygen 16.  
+``H1`` Hydrogen 1 (adding O16 and two H1's gives the cross section for water/ice target).  
 
-``H2O``: water/ice. 
+**Charged leptons**:  
+In the ``W_boson_production`` folder:  
+``e``: e^- or e^+  
+``mu``: \mu^- or \mu^-  
+``tau``: \tau^- or \tau^+     
 
-``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58), which matters for neutrino in-earth absorption.
+In the ``trident_production`` folder:  
+``e``: e^-  
+``E``: e^+  
+``m``: \mu^-  
+``M``: \mu^+  
+``l``: \tau^-  
+``L``: \tau^+     
 
-``EarthAvg``: Earth's averaged (by number density) chemical composition, which matters for neutrino in-earth absorption.
-
-``O16``: Oxygen 16.
-
-``H1`` Hydrogen 1 (adding O16 and two H1's gives the cross section for water/ice target).
-
-**Charged leptons**: 
-
-In the ``W_boson_production`` folder:
-``e``: e^- or e^+; ``mu``: \mu^- or \mu^-; ``tau``: \tau^- or \tau^+;   
-
-In the ``trident_production`` folder:
-``e``: e^-; ``E``: e^+; ``m``: \mu^-; ``M``: \mu^+; ``l``: \tau^- ; ``L``: \tau^+   
-
-**Others**:
-
-``W``: W boson
-
-``X``: the final-state of the nucleus part  
-
+**Others**:  
+``W``: W boson  
+``X``: the final-state of the nucleus part    
 ``tot``: means total cross section, which sums up all the three scattering regimes/components (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
-
 Therefore, for example, ``nue_H2O_TO_e_W_X_tot.txt`` is for the channel ``\nu_e  H_2O -> e^-  W^+  X`` or ``\bar{\nu}_e  H_2O -> e^+  W^-  X``.  
-
 Neutrino- and antineutrino-induced channels have the same cross sections. See the references papers above for details.  
 
 
