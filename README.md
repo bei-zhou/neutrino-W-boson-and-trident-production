@@ -1,4 +1,4 @@
-# Neutrino-nucleus cross sections for W-boson production (WBP) and trident production
+# Cross sections of the neutrino-nucleus W-boson production (WBP) and trident production
 
 Here we provide the data files of the cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later, including the differential cross sections.   
 If you need any data not shown here yet, or if you have any other questions, please feel free to contact me:  
