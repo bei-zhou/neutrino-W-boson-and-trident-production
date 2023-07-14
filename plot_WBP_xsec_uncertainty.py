@@ -42,7 +42,7 @@ ax.fill_between(tmp[0], tmp[1]*(1+tmp[2]), tmp[1]*(1-tmp[2]), facecolor='b', alp
 ax.set_ylabel(r"Cross section  [ cm$^2$ ]",fontsize=20)   
 ax.set_xlabel(r"$E_\nu$  [ GeV ]",fontsize=20, labelpad=None)
 ax.set_xlim(3e3,1e8); 
-ax.set_ylim(1e-38, 1e-31)
+ax.set_ylim(1e-39, 1e-31)
 
 plt.legend(loc='best',prop={'size':13}) 
 ax.tick_params(axis='both', which='major', direction='in', length = 10, width = 1.5, labelsize=20, right=True, top=True)
