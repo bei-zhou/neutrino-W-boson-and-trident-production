@@ -28,7 +28,7 @@ More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/
 ``Fe``: iron, which combines all the major isotopes (Fe54, Fe56, Fe57, Fe58), which matters for neutrino in-earth absorption.  
 ``EarthAvg``: Earth's averaged (by number density) chemical composition, which matters for neutrino in-earth absorption.  
 ``O16``: Oxygen 16.  
-``H1`` Hydrogen 1 (adding O16 and two H1's gives the cross section for water/ice target).  
+``H1``: Hydrogen 1 (adding O16 and two H1's gives the cross section for water/ice target).  
 
 **Charged leptons**:  
 In the ``W_boson_production`` folder:  
