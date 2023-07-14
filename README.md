@@ -18,7 +18,10 @@ More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/
 
 ## Conventions of the file names
 
-**Neutrino flavors**: ``nue`` or ``ve``: \nu_e; ``numu`` or ``vm``: \nu_\mu; ``nutau`` or ``vl``: \nu_\tau  
+**Neutrino flavors**: 
+``nue`` or ``ve``: \nu_e  
+``numu`` or ``vm``: \nu_\mu  
+``nutau`` or ``vl``: \nu_\tau  
 
 **Nucleus targets**: 
 
