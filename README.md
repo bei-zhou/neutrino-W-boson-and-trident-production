@@ -1,7 +1,7 @@
 # Neutrino-nucleus cross sections for W-boson production (WBP) and trident production
 
-Here we provide the data files of the cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later.   
-If you need any more data files not shown here yet, or if you have any other questions, please feel free to contact me:  
+Here we provide the data files of the cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later, including the differential cross sections.   
+If you need any data not shown here yet, or if you have any other questions, please feel free to contact me:  
     (**Bei Zhou**, beizhousuper@gmail.com).  
 
 Reference papers are https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and John F. Beacom. 
@@ -11,7 +11,7 @@ The first paper developed the theoretical framework and calculated the total cro
 ## Updates on July 13, 2023, WBP cross sections:
 The calculation of the inelastic component of the WBP cross section now uses the latest (second-generation) photon PDFs of proton and neutron from CT18qed (https://cteq-tea.gitlab.io/project/00pdfs/).  In the previous work (https://arxiv.org/abs/1910.08090), we used the (first-generation) CT14qed photon PDFs. The WBP inelastic cross section from CT18qed is **10--30% higher** than that from CT14qed.
 
-Also, in the WBP cross section files, we added a third columbus which is the 
+Also, in the WBP cross section files, we added a third column which has the cross section uncertainty, including the uncertainties of the 1) coherent component, 2) diffractive component, 3) inelastic component, PDF uncertainty, and 4) inelastic component, scale uncertainty.
 
 More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, T.J. Hobbs.
 
