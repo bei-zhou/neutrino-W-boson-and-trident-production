@@ -2,7 +2,7 @@
 
 Here, we provide the data files for the cross sections and differential cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later.
 
-If you need any data not shown here yet, or if you have any other questions, please feel free to contact me -- I'd be happy to help you!
+If you need any data not shown here yet, or if you have any questions, please feel free to contact me -- I'd be happy to help you!
     (**Bei Zhou**, beizhousuper@gmail.com).  
 
 When you use the data for publications, please cite https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and John F. Beacom (if there is a limit on reference number, you may cite the former only). 
@@ -21,6 +21,8 @@ We uploaded the differential cross section data and some figures.
 If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
 
 All the differential cross section files are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, you can simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell. 
+
+Note that neutrino and antineutrino have the same cross sections and differential cross sections.
 
 
 ## Conventions of the file names
