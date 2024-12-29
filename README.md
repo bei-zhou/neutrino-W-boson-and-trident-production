@@ -1,18 +1,25 @@
 # Cross sections of the neutrino-nucleus W-boson production (WBP) and trident production
 
 Here, we provide the data files for the cross sections and differential cross sections for different neutrino flavors and different nucleus targets. More data files will be uploaded later.
-If you need any data not shown here yet, or if you have any other questions, please feel free to contact me:  
+If you need any data not shown here yet, or if you have any other questions, please feel free to contact me -- I'd be happy to help you!:  
     (**Bei Zhou**, beizhousuper@gmail.com).  
 
-When you use the data, please cite https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and John F. Beacom (if there is a limit on reference number, you may cite the former only). 
-The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences including neutrino absorptions in the Earth and detections in the TeV-PeV observatories including IceCube.
+When you use the data for publications, please cite https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and John F. Beacom (if there is a limit on reference number, you may cite the former only). 
+The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences like neutrino absorptions in the Earth and detections in the TeV-PeV observatories like IceCube and IceCube-Gen2.
 
-## Updates on July 13, 2023, WBP cross sections:
+## Updates on July 13, 2023, WBP cross sections (./W_boson_production_cross_section):
 The calculation of the inelastic component of the WBP cross section now uses the latest (second-generation) photon PDFs of proton and neutron from CT18qed (https://cteq-tea.gitlab.io/project/00pdfs/).  In the previous work (https://arxiv.org/abs/1910.08090), we used the (first-generation) CT14qed photon PDFs. The WBP inelastic cross section from CT18qed is **10--30% higher** than that from CT14qed.
 
 Also, in the WBP cross section files, we added a third column that has the cross section uncertainty, including the uncertainties of the 1) coherent component, 2) diffractive component, 3) inelastic component, PDF uncertainty, and 4) inelastic component, scale uncertainty.
 
 More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, and T. J. Hobbs.
+
+## Updates on December 20, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
+We uploaded the differential cross section files. 
+
+If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
+
+All the differential cross section files are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, if you simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell. 
 
 
 ## Conventions of the file names
