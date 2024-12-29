@@ -20,7 +20,7 @@ We uploaded the differential cross section data and some figures.
 
 If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
 
-All the differential cross section files are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, if you simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell. 
+All the differential cross section files are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, you can simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell. 
 
 
 ## Conventions of the file names
