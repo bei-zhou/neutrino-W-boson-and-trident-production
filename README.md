@@ -16,7 +16,7 @@ Also, in the WBP cross section files, we added a third column that has the cross
 More details can be found in Fig. 20 and relevant text in https://arxiv.org/abs/2305.10497 by Keping Xie, Bei Zhou, and T. J. Hobbs.
 
 ## Updates on December 20, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
-We uploaded the differential cross section files. 
+We uploaded the differential cross section data and some figures. 
 
 If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
 
