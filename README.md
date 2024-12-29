@@ -54,7 +54,7 @@ In the ``trident_production`` folder:
 **Others**:  
 ``W``: W boson  
 ``X``: the final-state of the nucleus part    
-``tot``: means total cross section, which sums up all the three scattering regimes/components (coherent, diffractive, and inelastic regimes; see the references papers above for details).  
+``tot``: means total cross section, which sums up all the three scattering regimes/components (coherent component, diffractive component for proton and neutron, and inelastic component for proton and neutron; see the references papers above for details).  
 Therefore, for example, ``nue_H2O_TO_e_W_X_tot.txt`` is for the channel ``\nu_e  H_2O -> e^-  W^+  X`` or ``\bar{\nu}_e  H_2O -> e^+  W^-  X``.  
 Neutrino- and antineutrino-induced channels have the same cross sections. See the references papers above for details.  
 
