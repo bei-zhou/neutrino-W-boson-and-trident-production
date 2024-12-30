@@ -10,11 +10,11 @@ The first paper developed the theoretical framework and calculated the total cro
 
 
 ## Updates on December 20, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
-We uploaded the differential cross section data and some figures. 
+We uploaded the differential cross section data and some figures. The data are from summing up different scattering regimes: 1) coherent, 2) diffractive on proton and neutron, respectively, 3) inelastic on proton and neutron, respectively.
 
 If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
 
-**All the differential cross section files are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, you can simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell**. 
+**All the differential cross section data are for the charged lepton, i.e., d\sigma/dE_\ell. The differential cross section of the W boson can be easily obtained using E_W = E_\nu - E_\ell, because the energy that goes to the nucleus is negligible.  If you simulate events based on the files, you can simulate E_\ell first and then get the simulated E_W simply through E_W = E_\nu - E_\ell**. 
 
 Note that neutrino and antineutrino have the same cross sections and differential cross sections.
 
