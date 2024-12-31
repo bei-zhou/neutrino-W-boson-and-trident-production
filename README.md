@@ -6,7 +6,7 @@ If you need any data not shown here yet, or if you have any questions, please fe
     (**Bei Zhou**, beizhousuper@gmail.com).  
 
 When you use the data for publications, please cite https://arxiv.org/abs/1910.08090 and https://arxiv.org/abs/1910.10720 by Bei Zhou and John F. Beacom (if there is a limit on reference number, you may cite the former only). 
-The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences like neutrino absorptions in the Earth and detections in the TeV-PeV observatories like IceCube and IceCube-Gen2.
+The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences like neutrino absorptions in the Earth and detections in the TeV-PeV neutrino observatories like IceCube and IceCube-Gen2.
 
 
 ## Updates on December 29, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
