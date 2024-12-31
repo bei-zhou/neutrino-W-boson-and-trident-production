@@ -9,7 +9,7 @@ When you use the data for publications, please cite https://arxiv.org/abs/1910.0
 The first paper developed the theoretical framework and calculated the total cross sections. The second paper calculated differential cross sections, d\sigma/d_E, and studied the phenomenological consequences like neutrino absorptions in the Earth and detections in the TeV-PeV observatories like IceCube and IceCube-Gen2.
 
 
-## Updates on December 20, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
+## Updates on December 29, 2024, WBP differential cross sections (./W_boson_production_differential_cross_section):
 We uploaded the differential cross section data and some figures. The data are from summing up different scattering regimes: 1) coherent, 2) diffractive on proton and neutron, respectively, 3) inelastic on proton and neutron, respectively.
 
 If you need to interpolate over the data, be careful when dealing with those near the right end at large Enu, where the numbers increase quickly.
